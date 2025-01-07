@@ -62,5 +62,27 @@ Below is a screenshot of the **CurrencyConverter** app:
 <img src="https://github.com/user-attachments/assets/d3bd7bad-063b-4a13-b27b-c637a05dbd88" width="300" height="500" />
 ---
 
-## Project Structure
+ ## Project Structure  
+```
+.
+├── README.md
+├── App.js
+│── Components
+├        ├── CurrencyConvert.js
+└──index.js
 
+```
+
+## Contributing
+
+Contributions are always welcome! If you find any issues or want to improve the project, feel free to fork the repository and submit a pull request. Here’s how you can contribute:
+
+1. Fork the repository
+2. Create a new branch for your changes
+3. Make your changes and commit them
+4. Push to your forked repository
+5. Open a pull request to the main repository
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
